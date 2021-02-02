@@ -1,0 +1,3 @@
+Déplacement avec Input: 2h
+Implémentations des animations: 5h
+IA du boss: +10h mais j'ai pas pu le faire
